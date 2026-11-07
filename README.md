@@ -39,11 +39,6 @@ A curated collection of digital tools and resources for thinking, creating, buil
 - [Logic Pro](https://www.apple.com/logic-pro/) - Music production app for recording, editing, arranging, and mixing audio.
 - [Ultimate Guitar](https://www.ultimate-guitar.com/) - Collection of guitar chords, tablature, and music learning resources.
 
-## Development and GitHub
-
-- [GitHub](https://github.com/) - Platform for hosting repositories and collaborating on software and documentation.
-- [GitHub Actions](https://github.com/features/actions) - Automation for building, testing, and managing repository workflows.
-- [Visual Studio Code](https://code.visualstudio.com/) - Code editor with extensions for many programming languages and workflows.
 
 ## Contributing
 
