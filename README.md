@@ -21,7 +21,6 @@ A curated collection of digital tools and resources for thinking, creating, buil
 
 - [Raycast](https://www.raycast.com/) - Launcher for searching, running commands, and automating tasks on macOS.
 - [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - App for combining actions into reusable workflows across Apple devices.
-- [Text Blaze](https://blaze.today/) - Text snippets and templates for inserting frequently used content.
 
 ## Knowledge and Research
 
@@ -33,7 +32,7 @@ A curated collection of digital tools and resources for thinking, creating, buil
 
 - [Canva](https://www.canva.com/) - Design platform for creating presentations, graphics, documents, and other visual content.
 - [Figma](https://www.figma.com/) - Collaborative design tool for interfaces, prototypes, and visual work.
-- [Pixelmator Pro](https://www.pixelmator.com/pro/) - Image editing and design app for macOS.
+
 
 ## Music and Audio
 
