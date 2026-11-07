@@ -9,7 +9,6 @@ A curated collection of digital tools and resources for thinking, creating, buil
 - [Knowledge and Research](#knowledge-and-research)
 - [Design and Visual Creation](#design-and-visual-creation)
 - [Music and Audio](#music-and-audio)
-- [Development and GitHub](#development-and-github)
 
 ## AI Assistants
 
