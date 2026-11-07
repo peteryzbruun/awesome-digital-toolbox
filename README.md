@@ -21,6 +21,17 @@ A curated collection of digital tools and resources for thinking, creating, buil
   - [AI Plugins](#ai-plugins)
   - [AI Pets](#ai-pets)
 
+
+## Icon Guide
+
+These icons provide additional information about a resource when shown beside an entry:
+
+- ![Open source][oss-icon] - Open-source software. Click the icon to visit its source repository.
+- ![Free][free-icon] - Free to use, or available with a free personal license. Check the resource for current terms.
+- ![App Store][app-store-icon] - Links to the resource in an app store.
+- ![Native app][native-icon] - Available as a native application.
+- ![Awesome list][awesome-list-icon] - Links to a related Awesome list.
+
 ## AI Assistants
 
 - [ChatGPT](https://chatgpt.com/) - AI assistant for conversations, writing, research, and working with ideas.
@@ -105,3 +116,9 @@ The following resources are candidates for review.
 ## Contributing
 
 Suggestions and improvements are welcome. Please read the contribution guidelines before opening a pull request.
+
+[oss-icon]: https://img.shields.io/badge/open%20source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white
+[free-icon]: https://img.shields.io/badge/free-0078D4?style=flat-square
+[app-store-icon]: https://img.shields.io/badge/app%20store-0D96F6?style=flat-square&logo=appstore&logoColor=white
+[native-icon]: https://img.shields.io/badge/native%20app-555555?style=flat-square
+[awesome-list-icon]: https://img.shields.io/badge/awesome%20list-FF69B4?style=flat-square&logo=awesomelists&logoColor=white
